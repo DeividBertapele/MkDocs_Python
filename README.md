@@ -1,4 +1,7 @@
-# MkDocs -  https://www.markdownguide.org/getting-started/
+# Documentando os projetos com MKDocs
+
+
+## MkDocs -  https://www.markdownguide.org/getting-started/
 
 - É um projeto para criação de documentações para projetos. Seja feita em python, pode ser usada para qualquer projeto de documentação e até sites estáticos.
 
@@ -27,21 +30,21 @@
 
 ------------------------------------------------------------
 
-MkDocs Themes :
+## MkDocs Themes :
     - https://github.com/mkdocs/mkdocs/wiki/MkDocs-Themes
 
 
-Material-theme:
+## Material-theme:
     - https://squidfunk.github.io/mkdocs-material/getting-started/
 
 
-Mermais.js
+## Mermais.js
     - https://mermaid.js.org/#/
 
 
 ---------------------------------------------------------
 
-# MkDocstrings
+## MkDocstrings
 
 - https://github.com/mkdocstrings/mkdocstrings
 
