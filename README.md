@@ -41,6 +41,10 @@ Mermais.js
 
 ---------------------------------------------------------
 
-# MkDocsstrings
+# MkDocstrings
 
 - https://github.com/mkdocstrings/mkdocstrings
+
+--------------------------------------------------------
+
+![Captura de tela 2023-01-13 143313](https://user-images.githubusercontent.com/43301551/212398925-f535bc09-6db7-4ffc-bb00-0208a5e5f311.png)
